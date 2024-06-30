@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "heading": "Complete",
+      "content": "Prepare and finalize the project proposal document. Include budget estimates and timeline."
+    },
+    {
+      "id": "2",
+      "heading": "Review Design Mockups",
+      "content": "Examine the latest design mockups provided by the UI/UX team. Provide detailed feedback and suggestions."
+    },
+    {
+      "id": "3",
+      "heading": "Prepare Presentation Slides",
+      "content": "Create engaging slides for the upcoming client presentation. Focus on key project highlights and outcomes."
+    },
+    {
+      "id": "4",
+      "heading": "Prepare Presentation Slides",
+      "content": "Create engaging slides for the upcoming client presentation. Focus on key project highlights and outcomes."
+    },
+    {
+      "id": "5",
+      "heading": "Prepare Presentation Slides",
+      "content": "Create engaging slides for the upcoming client presentation. Focus on key project highlights and outcomes."
+    }
+  ]
+}
